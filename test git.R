@@ -7,3 +7,5 @@ sin(5)
 #kolejna linijka 
 
 cos(2)
+
+zmiana w gałęzi nowa
