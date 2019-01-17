@@ -9,3 +9,4 @@ sin(5)
 cos(2)
 
 zmiana w gałęzi nowa
+jeszcze jedna
